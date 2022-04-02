@@ -46,13 +46,14 @@ The following **additional** features are implemented:
 https://www.w3schools.com/js/js_random.asp
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-   While submitting my project, I struggled most with task 2. I struggled with understanding what to upload from my desktop after watching the 10 minute video. The 10 minute video was very confusing because I did not code an additional documents that had to be uploaded from m computer. I reached out to the instructors on Slack, but the were unable to give me good feedback. As a result, I tried to figure it out by working on the next steps and then coming back to the 10 minute video. Although, it was repetitive and took up a lot of time, I was able to put it all together and I believe I followed the right steps. 
+   While submitting my project, I struggled most with task 2. I struggled with understanding what to upload from my desktop after watching the 10 minute video. The 10 minute video was very confusing because I did not code an additional documents that had to be uploaded from m computer. I reached out to the instructors on Slack, but they were unable to give me good feedback. As a result, I tried to figure it out by working on the next steps and then coming back to the 10 minute video. Although, it was repetitive and took up a lot of time, I was able to put it all together and I believe I submitted my work correctly. 
+
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-In regards to web development I would like to know more about coding in javascript. From what I have seen,  the code itself seem pretty similar but the essence of the code is different. I want to know what the similarities and differences between the two are. How much coding is necessary when web developing and how can I improve my skills as a web developer?
+In regards to web development I would like to know more about coding in javascript. From what I have seen,  the code itself seem pretty similar to coding in Java, but the essence of the code is different. I want to know what the similarities and differences between the two are. How much coding is necessary when web developing and how can I improve my skills as a web developer?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-If I had a few more hours to work on m project, I would add a timer, add images to the buttons and change the sound to studio beats.
+If I had a few more hours to work on m project, I would add a timer, add images to the buttons and make the audio sound more like the beats you would hear in a studio.
 
 
 
