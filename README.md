@@ -38,7 +38,10 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-![](https://i.imgur.com/cZcbZEF.gif)
+![](https://i.imgur.com/M4JOS4Z.gif)
+![](https://i.imgur.com/Pa41Ttr.gif)
+![](https://i.imgur.com/uug0khg.gif)
+![](https://i.imgur.com/txxhctG.gif)
 
 
 ## Reflection Questions
